@@ -1,4 +1,4 @@
-![Portfolio]([https://i.ibb.co/wNTgZ0FC/portfolio.png](https://i.ibb.co/xqd1pF5V/Screenshot-2025-10-08-200209.png))
+![Portfolio]((https://i.ibb.co/xqd1pF5V/Screenshot-2025-10-08-200209.png))
 
 # Portfolio 
 
